@@ -1,0 +1,22 @@
+:root {
+  font-family: 'Montserrat', sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+
+  --primary: #ffadc6;
+  --secondary: #ef9fb8;
+  --terceary: #e090a9;
+  --claro: #ffecf1;
+  --soft-white: #f1f1f1;
+  --white: #fefefe;
+  --black: #111;
+  
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
